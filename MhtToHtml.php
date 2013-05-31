@@ -1,4 +1,21 @@
 <?php
+/**
+ * A fast memory effecient PHP class to convert MHT file to HTML (and images)
+ *
+ * NOTICE OF LICENSE
+ *
+ * Licensed under the 3-clause BSD License.
+ *
+ * This source file is subject to the 3-clause BSD License that is
+ * bundled with this package in the LICENSE file.  It is also available at
+ * the following URL: http://www.opensource.org/licenses/BSD-3-Clause
+ *
+ * @version    1.0
+ * @author     Andy Hu
+ * @license    BSD License (3-clause)
+ * @copyright  (c) 2013, Andy Hu
+ * @link       https://github.com/andyhu/mht2html
+ */
 
 class MhtToHtml
 {
