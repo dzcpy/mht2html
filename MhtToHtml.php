@@ -4,15 +4,11 @@
  *
  * NOTICE OF LICENSE
  *
- * Licensed under the 3-clause BSD License.
- *
- * This source file is subject to the 3-clause BSD License that is
- * bundled with this package in the LICENSE file.  It is also available at
- * the following URL: http://www.opensource.org/licenses/BSD-3-Clause
+ * Licensed under MIT License. URL: http://opensource.org/licenses/mit-license.html
  *
  * @version    1.0
  * @author     Andy Hu
- * @license    BSD License (3-clause)
+ * @license    MIT
  * @copyright  (c) 2013, Andy Hu
  * @link       https://github.com/andyhu/mht2html
  */

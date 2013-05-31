@@ -1,0 +1,19 @@
+{
+    "name": "andyhu/mht2html",
+    "type": "library",
+    "description": "MHT to HTML converter",
+    "keywords": ["mht","mht2html"],
+    "homepage": "http://github.com/andyhu/mht2html",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andy Hu",
+            "email": "huyifan@vip.sina.com",
+            "homepage": "http://drupaler.cn",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+}
